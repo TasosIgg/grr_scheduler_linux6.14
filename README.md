@@ -5,10 +5,6 @@ An operating systems assignment implementing a custom Linux scheduling class,
 `DEFAULT` and `PERFORMANCE` — and lets userspace control both group
 membership and per-group core allocation at runtime.
 
-**Authors**
-- Αναστάσιος Ιγγλεζάκης — sdi2300054
-- Αθανάσιος Σκότης — sdi2300188
-- Κωνσταντίνος Ορφανός — sdi2300150
 
 ## Contents
 
