@@ -96,8 +96,4 @@ task placement.
   increases, consistent with `assign_ncores_to_group` actively migrating
   tasks into the updated mask rather than leaving them pinned.
 
-## Self-assessment
 
-Implementation and observed behavior are consistent with the assignment's
-functional requirements across all tested configurations; self-graded at
-**85%**.
